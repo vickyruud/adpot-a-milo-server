@@ -1,4 +1,4 @@
-#Adopt a Milo Server
+Adopt a Milo Server
 
 ## Details
 
