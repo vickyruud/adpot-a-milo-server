@@ -1,5 +1,7 @@
 const { MongoClient } = require("mongodb");
+//obtain database from env file
 const Db = process.env.ATLAS_URI;
+//create new mongo client
 const client = new MongoClient(Db, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
