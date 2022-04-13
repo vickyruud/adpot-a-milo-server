@@ -1,5 +1,5 @@
-Adopt a Milo Server
+# Adopt a Milo Server
 
-## Details
+### Details
 
 This is the server hosted with express and MongoDB for the adpot a milo app.
